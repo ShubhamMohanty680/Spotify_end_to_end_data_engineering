@@ -20,3 +20,13 @@ It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify
 
 6. **AWS Athena:**  Amazon Athena is a interactive query service that makes it easy to analyze data stored in S3 using standard SQL. It is also used to analyze stored in Glue Data Catalog.
 
+7.  **Snowflake:** Snowflake is a cloud-based data warehouse platform that allows users to store, analyze, and exchange data securely.
+
+8. **PowerBI:** Snowflake is a cloud-based data warehousing service that allows you to store and analyze all your data in one place. It scales independently of storage and computing, making it a flexible and cost-effective solution for businesses of all sizes.
+
+
+
+### Dashboard
+![Architecture Diagram](https://github.com/user-attachments/assets/2a6b73b6-9fd5-4ee5-813a-c861c5ee7159)
+
+
