@@ -27,6 +27,7 @@ It is a project build using ETL(Extract, Transform, Load) pipeline using Spotify
 
 
 ### Dashboard
-![Architecture Diagram](https://github.com/user-attachments/assets/2a6b73b6-9fd5-4ee5-813a-c861c5ee7159)
+![Architecture Diagram](https://github.com/user-attachments/assets/e8b4d9e6-2fb9-4cd5-8212-2e38802198d7)
+
 
 
